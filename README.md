@@ -23,43 +23,44 @@ This application is used to conduct online examination. The students can sit at 
 
 # RESULTS
 ## LOGIN SELECTION PAGE
-![image](https://github.com/user-attachments/assets/34391b5a-8a2d-4439-b216-3f5922256737)
+![image](https://github.com/user-attachments/assets/431c15fa-b360-4b16-b050-bb1726b675a1)
 ## STUDENT LOGIN PAGE
-![image](https://github.com/user-attachments/assets/4a7f74b0-5b13-41b6-b40a-533b1492c698)
+![image](https://github.com/user-attachments/assets/5d87b698-2d04-4653-9dc7-e5f25058cade)
 ## STUDENT FORGOT PASSWORD PAGE
-![image](https://github.com/user-attachments/assets/a043691b-3906-4d64-9673-276da2ca3aba)
+![image](https://github.com/user-attachments/assets/1b105b43-08f8-4ceb-a03f-900559acb6bb)
 ## STUDENT SIGNUP PAGE
-![image](https://github.com/user-attachments/assets/74a3f395-49cf-44d7-bb15-182e9efea6a7)
+![image](https://github.com/user-attachments/assets/a58ea7b1-d94a-4b8b-9707-e4fdc2fac418)
 ## ACCOUNT CREATION CONFIRMATION PAGE
-![image](https://github.com/user-attachments/assets/2bb70310-b762-4f4f-a2f4-ecb73f0f7236)
+![image](https://github.com/user-attachments/assets/7662f606-0289-4682-9435-d6c2705c93a3)
 ## STUDENT DASHBOARD PAGE
-![image](https://github.com/user-attachments/assets/143c5bc9-56df-4aa2-be26-af2a6fbb9d4e)
+![image](https://github.com/user-attachments/assets/9eb5ef62-12e0-49aa-aba3-f6b5f2f3e6ad)
 ## STUDENT PROFILE PAGE
-![image](https://github.com/user-attachments/assets/1548b838-3453-4daf-81da-43e95b874bb9)
+![image](https://github.com/user-attachments/assets/1d98df49-8801-424c-9a59-7d431bc09472)
 ## QUIZ PAGE
-![image](https://github.com/user-attachments/assets/7e92c3f8-a26a-4b23-9b01-83ba43465da9)
+![image](https://github.com/user-attachments/assets/5796dd74-ef6d-4a76-9d94-034865afbf81)
 ## SCORE PAGE
-![image](https://github.com/user-attachments/assets/03e47485-a0a4-43cb-b719-3d46a740777e)
+![image](https://github.com/user-attachments/assets/d580a004-0355-411c-a852-dd583d09f435)
 ## STAFF LOGIN PAGE
-![image](https://github.com/user-attachments/assets/4ccc0ba8-3cae-4f6e-a744-1478eb4863e7)
+![image](https://github.com/user-attachments/assets/36143bec-bf2f-4a30-8b62-c88dfad41430)
 ## STAFF FORGOT PASSWORD PAGE
-![image](https://github.com/user-attachments/assets/dfdc54b8-ce8e-4a30-9ae0-2b4cae9a1814)
+![image](https://github.com/user-attachments/assets/a8911544-c966-409c-a477-6461ce8db3d6)
 ## STAFF SIGNUP PAGE
-![image](https://github.com/user-attachments/assets/551b5005-e0eb-4910-9147-a39505327713)
+![image](https://github.com/user-attachments/assets/86032fc7-73bd-409c-8279-bcb456c7b10e)
 ## CONFIRMATION PAGE
-![image](https://github.com/user-attachments/assets/baa020c5-23a5-4726-87b0-32b37d25d170)
+![image](https://github.com/user-attachments/assets/c3220aae-73f5-4723-b89a-1ad0ab06fab7)
 ## STAFF DASHBOARD PAGE
-![image](https://github.com/user-attachments/assets/440f27ce-e4d8-436b-a75d-d76307bf927d)
+![image](https://github.com/user-attachments/assets/37e1aa1a-7aa3-47e6-aede-087a273d4d90)
 ## STAFF PROFILE PAGE
-![image](https://github.com/user-attachments/assets/dd62f541-9922-4b57-9994-7b0e0cbe79bb)
+![image](https://github.com/user-attachments/assets/5093d0a9-5f42-4e15-8ec3-0fc293f4351b)
 ## VIEW QUIZES PAGE
-![image](https://github.com/user-attachments/assets/5e645e10-ef69-4491-a50f-8196fbf0e654)
+![image](https://github.com/user-attachments/assets/edc29e81-63ef-4a20-87cc-04c6044813c2)
 ## DELETE QUIZ PAGE
-![image](https://github.com/user-attachments/assets/3933e503-de13-493d-ad6c-c715fbafb98e)
+![image](https://github.com/user-attachments/assets/b9683fb8-25ce-4e35-b5c7-3165447bb6f6)
 ## ADD QUIZ PAGE
-![image](https://github.com/user-attachments/assets/c572ce01-1ce8-41c2-bdea-c44d39b987c5)
+![image](https://github.com/user-attachments/assets/0ca88895-1444-4d5d-9f89-cde456b3d93c)
 ## ADD QUESTIONS PAGE
-![image](https://github.com/user-attachments/assets/155d06af-1ee4-4038-a6d2-a3ad5660cbe7)
+![image](https://github.com/user-attachments/assets/6e586128-f3d0-4193-a6bd-31918e549e9a)
+
 
 
 # CONCLUSION 
