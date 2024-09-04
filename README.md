@@ -18,7 +18,7 @@ The problem with the current system is that students take their exam manually. T
 With the development of information technology and use it in an orderly and properly helps to overcome the existing error in the manual system. Online examination system saves the exams information in a database, and this make it an easier way to give exam teachers can add their exams rules, and student can give exam in a totally automated system. 
 ## Existing System:  
 Existing system is a manual one in which users are maintaining books to store the information like Student Details, Instructor Details, Schedule Details and feedbacks about students who attempted exam as per schedule. It is very difficult to maintain historical data. 
-##Proposed System:  
+## Proposed System:  
 This application is used to conduct online examination. The students can sit at individual terminals and login to write the exam in the given duration. The questions have to be given to the students. This application will perform correction, display the result immediately and also store it in database. This application provides the administrator with a facility to add new exams. This application provides the instructor add questions to the exam, modify questions in the exam in a particular exam. This application takes care of authentication of the administrator, Instructor as well as the student. 
 
 # RESULTS
